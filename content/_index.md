@@ -1,5 +1,5 @@
 +++
-title = "Nordic-RSE Conference 2026"
+title = "2026 Nordic-RSE Conference"
 +++
 
 # Welcome
