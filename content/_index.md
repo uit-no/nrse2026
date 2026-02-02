@@ -6,9 +6,9 @@ title = "2026 Nordic-RSE Conference"
 
 Join us for the Nordic-RSE Conference 2026, bringing together Research Software Engineers from across the Nordic region and beyond for two days of learning, networking, and collaboration.
 
-**Dates:** June 9-10, 2026
-**Location:** Auditorium Cerebrum, UiT The Arctic University of Norway, Tromsø
-**Times:** 9:00 - 16:00 each day
+**Dates:** June 9-10, 2026  
+**Location:** [Auditorium Cerebrum, UiT - The Arctic University of Norway, Tromsø](#venue)  
+**Times:** [9:00 - 16:00 each day](#schedule)
 
 This community-driven conference is for anyone working at the interface between research and digital technologies - from software developers and data scientists to system administrators and research supporters.
 
@@ -24,7 +24,7 @@ Nordic-RSE is a grass-root professional association providing a networking platf
 
 **Day 2 (June 10):** Open to the broader community including students, researchers, and private companies - learn about research software engineering and its impact across sectors.
 
-Whether you're an experienced RSE or just getting started with research software, this conference offers valuable insights and networking opportunities.
+Whether you're an experienced RSE or just getting started with writing scientific software and scripts, this conference offers valuable insights and networking opportunities.
 
 
 {{ new_block() }}
@@ -33,9 +33,7 @@ Whether you're an experienced RSE or just getting started with research software
 # Important Dates
 
 **Call for Participation:** Opens February 2026
-**Submission Deadline:** April 2026
-**Notification of Acceptance:** May 2026
-**Early Registration Deadline:** May 2026
+
 **Conference Dates:** June 9-10, 2026
 
 *Detailed dates will be announced soon. Stay tuned!*
@@ -46,13 +44,18 @@ Whether you're an experienced RSE or just getting started with research software
 
 # Venue {#venue}
 
-The conference will be held at **Auditorium Cerebrum** at UiT The Arctic University of Norway in Tromsø.
+The conference will be held at [**Auditorium Cerebrum** at UiT - The Arctic University of Norway in Tromsø](https://link.mazemap.com/CUiXs19U) .
 
 **Address:**
-UiT The Arctic University of Norway
-Tromsø, Norway
 
-**Getting to UiT:**
+UiT - The Arctic University of Norway  
+Universitetsvegen 61  
+9019 Tromsø  
+Norway
+
+[Google Maps link](https://maps.app.goo.gl/YCQriKUMACmXu7Qp6)
+
+### Getting to UiT:
 - **By Air:** Tromsø Airport (Langnes) is located about 5 km from the city center. Local buses and taxis connect the airport to the city and university.
 - **By Bus:** Public transportation serves the university campus. Check [Tromsø public transport](https://www.tromskortet.no/) for routes and schedules.
 - **Parking:** Limited parking is available on campus.
@@ -67,7 +70,7 @@ More detailed directions and campus maps will be provided closer to the conferen
 
 The conference runs from **9:00 to 16:00** on both days.
 
-**What to Expect:**
+### What to Expect:
 - Keynote presentations from invited speakers
 - Technical talks and demonstrations
 - Discussion sessions and panels
@@ -75,9 +78,9 @@ The conference runs from **9:00 to 16:00** on both days.
 - Networking opportunities
 - Coffee breaks, lunch, and afternoon refreshments included
 
-**Conference Format:**
-- **Day 1 (June 9):** RSE-focused sessions for practitioners and community members
-- **Day 2 (June 10):** Open sessions for students, researchers, and industry partners
+### Conference Format:
+- **Day 1 (June 9):** Open sessions for students, researchers, and industry partners
+- **Day 2 (June 10):** RSE-focused sessions for practitioners and community members
 
 The detailed program will be published after the call for participation closes and submissions are reviewed.
 
@@ -91,20 +94,21 @@ We have arranged special accommodation options for conference participants:
 
 ## UiT Student Housing (Recommended)
 
-**20 rooms reserved** from June 8-14, 2026 at Samskipnaden student housing:
+**20 rooms reserved** from June 8-14, 2026 at Samskipnaden student housing.
+Unfortunately, it is only possible to book the rooms for a minimum of 7 days.
 
 - **Type:** Shared dormitory (dublett) with common bathroom and kitchen
-- **Price:** 400 NOK per night (approximately €35)
+- **Price:** 2800 NOK for the whole week.
 - **Included:** Clean linen, towels, basic kitchenware, WiFi, laundry facilities
 - **Booking:** Contact uit.housing@samskipnaden.no
 
 This is an excellent budget option that keeps you close to other conference participants.
+Especially, if you want to combine the conference with a vacation to explore Tromsø and Northern Norway.
 
 ## Hotels in Tromsø
 
-Alternative accommodation options in the city:
-- **Hotel Pingvin** - Details to be announced
-- **Berg-Hansen Travel Agency** offers - Details to be announced
+Tromsø offers lots of hotels, just check the typical booking pages for offers.
+Usually, the prices are reasonable in the summer time.
 
 We will update this section with more hotel options and potential conference rates soon.
 
@@ -112,7 +116,7 @@ We will update this section with more hotel options and potential conference rat
 
 For families or those needing accessible accommodation:
 - **Type:** Small 2-bedroom apartment (wheelchair accessible)
-- **Price:** 500 NOK per night
+- **Price:** 3000 NOK per week (minimum 7 nights)
 - **Availability:** 1 unit available
 - **Booking:** Contact uit.housing@samskipnaden.no
 
@@ -124,15 +128,17 @@ For families or those needing accessible accommodation:
 
 Tromsø is located in Northern Norway, 350 km north of the Arctic Circle.
 
-**By Air:**
+### By Air:
 - **Tromsø Airport (TOS)** has direct flights from Oslo, Bergen, Trondheim, and other major Nordic cities
 - International connections typically route through Oslo
-- The airport is 5 km from the city center
+- The airport is 5 km from the city centre
 
-**Getting Around Tromsø by Public Transportation:**
+
+### Getting Around Tromsø by Public Transportation:
 
 Getting around Tromsø is easy with an excellent public bus system:
 
+- Web page: https://svipper.no/
 - **Ticket App:** Download the **Svipper** app for <a href="https://play.google.com/store/apps/details?id=no.trfylke.svipper.production" target="_blank" rel="noopener">Android</a> or <a href="https://apps.apple.com/no/app/svipper/id6502283055?l=nb" target="_blank" rel="noopener">iOS</a>
 - **Ticket Prices:**
   - Week pass: 311 NOK (recommended for conference attendees)
@@ -147,7 +153,7 @@ Getting around Tromsø is easy with an excellent public bus system:
 
 **Other Transportation:**
 - **Taxi:** Tromsø Taxi at +47 776 03 000
-- **Walking:** Tromsø city center is compact and very walkable
+- **Walking:** Tromsø city centre is compact and very walkable
 
 <img src="tromso_locations.png" alt="Tromsø locations map showing airport and UiT campuses" style="max-width: 600px; width: 100%; height: auto;" />
 
@@ -187,16 +193,16 @@ Even in June, bring layers and prepare for variable weather. Temperatures are mi
 
 # Catering
 
-All conference participants will enjoy full catering for both days, included in the registration fee:
+All conference participants will enjoy full catering on both days.
 
-**Included:**
 - Morning coffee and refreshments
 - Lunch each day
 - Afternoon cake and coffee
 
-**Cost:** 900 NOK for 2 days (covered by UiT IT Department for registered participants)
+**Plus conference dinner on day 1**
 
-**Provider:** Samskipnaden Catering
+
+Graciously covered by the UiT IT Department for all registered participants.
 
 Dietary requirements will be collected during registration to accommodate all participants.
 
@@ -234,12 +240,6 @@ For questions or inquiries, please contact: **secretary@nordic-rse.org**
 
 
 # Sponsors
-
-We are grateful for the support of our sponsors who make this conference possible.
-
-**Potential Sponsors:**
-- KSat
-- Microsoft
 
 If your organization is interested in sponsoring Nordic-RSE 2026, please contact secretary@nordic-rse.org.
 
