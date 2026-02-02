@@ -136,7 +136,7 @@ Tromsø is located in Northern Norway, 350 km north of the Arctic Circle.
 
 ### Getting Around Tromsø by Public Transportation:
 
-Getting around Tromsø is easy with an excellent public bus system:
+Getting around Tromsø is easy with public buses:
 
 - Web page: https://svipper.no/
 - **Ticket App:** Download the **Svipper** app for <a href="https://play.google.com/store/apps/details?id=no.trfylke.svipper.production" target="_blank" rel="noopener">Android</a> or <a href="https://apps.apple.com/no/app/svipper/id6502283055?l=nb" target="_blank" rel="noopener">iOS</a>
@@ -199,7 +199,7 @@ All conference participants will enjoy full catering on both days.
 - Lunch each day
 - Afternoon cake and coffee
 
-**Plus conference dinner on day 1**
+**Plus social dinner (BBQ if the weather permits) on day 1**
 
 
 Graciously covered by the UiT IT Department for all registered participants.
