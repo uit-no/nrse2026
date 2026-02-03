@@ -117,7 +117,6 @@ For families or those needing accessible accommodation:
 - **Type:** Small 2-bedroom apartment (wheelchair accessible)
 - **Price:** 3000 NOK per week (minimum 7 nights)
 - **Availability:** 1 unit available
-- **Booking:** Contact uit.housing@samskipnaden.no
 
 
 {{ new_block() }}
