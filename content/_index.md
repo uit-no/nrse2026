@@ -100,7 +100,6 @@ Unfortunately, it is only possible to book the rooms for a minimum of 7 days.
 - **Type:** Shared dormitory (dublett) with common bathroom and kitchen
 - **Price:** 2800 NOK for the whole week.
 - **Included:** Clean linen, towels, basic kitchenware, WiFi, laundry facilities
-- **Booking:** Contact uit.housing@samskipnaden.no
 
 This is an excellent budget option that keeps you close to other conference participants.
 Especially, if you want to combine the conference with a vacation to explore Tromsø and Northern Norway.
